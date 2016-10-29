@@ -61,8 +61,8 @@ namespace EntityFrameworkIntroduction
                 .WillCascadeOnDelete(false);
 
             modelBuilder.Entity<Employee>()
-                .HasMany(e => e.Employees1)
-                .WithOptional(e => e.Employee1)
+                .HasMany(e => e.Employees)
+                .WithOptional(e => e.Manager)
                 .HasForeignKey(e => e.ManagerID);
 
             modelBuilder.Entity<Employee>()

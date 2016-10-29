@@ -1,2 +1,11 @@
 C:\Users\Даниел\Documents\GitHub\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\EntityFrameworkIntroduction.exe.config
 C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFrameworkIntroduction.exe.config
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFrameworkIntroduction.exe
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFrameworkIntroduction.pdb
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFramework.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFramework.xml
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\obj\Debug\EntityFrameworkIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\obj\Debug\EntityFrameworkIntroduction.exe
+C:\Users\Даниел\Documents\GitHub\EntityFramework-IntroductionExercises\EntityFrameworkIntroduction\obj\Debug\EntityFrameworkIntroduction.pdb
